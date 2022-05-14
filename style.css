@@ -43,7 +43,7 @@ html {
 
 .navbar .logo a {
     color: #fff;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 600;
 }
 
@@ -221,7 +221,7 @@ section .title::before {
 
 section .title::after {
     position: absolute;
-    bottom: -12px;
+    bottom: -60px;
     left: 50%;
     font-size: 20px;
     color: crimson;
