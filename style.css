@@ -670,13 +670,8 @@ footer span a:hover {
 
 }
 
-@media (max-width:991px) {
-    .max-width {
-        padding: 0 50px;
-    }
-}
 
-@media (max-width:947px) {
+@media (max-width:991px) {
     .max-width {
         padding: 0 50px;
     }
@@ -766,15 +761,15 @@ footer span a:hover {
     }
 
     .home .home-containt .text-2 {
-        font-size: 60px;
-    }
-
-    .home .home-containt .text-3 {
         font-size: 32px;
     }
 
+    .home .home-containt .text-3 {
+        font-size: 28px;
+    }
+
     .home .home-containt a {
-        font-size: 20px;
+        font-size: 24px;
     }
 
     .services .serv-content .card {
@@ -784,11 +779,11 @@ footer span a:hover {
 
 @media (max-width:500px) {
     .home .home-containt .text-2 {
-        font-size: 50px;
+        font-size: 30px;
     }
 
     .home .home-containt .text-3 {
-        font-size: 27px;
+        font-size: 28px;
     }
 
     .services .serv-content .card,
