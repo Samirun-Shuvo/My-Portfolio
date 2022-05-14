@@ -778,12 +778,16 @@ footer span a:hover {
 }
 
 @media (max-width:500px) {
-    .home .home-containt .text-2 {
+    .home .home-containt .text-1 {
         font-size: 30px;
     }
 
+    .home .home-containt .text-2 {
+        font-size: 36px;
+    }
+
     .home .home-containt .text-3 {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .services .serv-content .card,
